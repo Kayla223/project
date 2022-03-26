@@ -1,4 +1,4 @@
-var speed2=2//速度数值越大速度越慢
+var speed2=11//速度数值越大速度越慢
 demo22.innerHTML=demo21.innerHTML
 function Marquee2(){
 if(demo22.offsetWidth-demo20.scrollLeft<=0)
